@@ -33,6 +33,7 @@
     h3{
         font-family: 'Brush Script MT', cursive;
         font-size:2em;
+         color:darkblue;
     }
 h1 {
         display: inline-block;

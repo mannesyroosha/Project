@@ -13,6 +13,7 @@ h1 {
     h2{
         font-family: 'Brush Script MT', cursive;
         font-size:2em;
+         color:darkblue;
     }
 #wrapper{
     border:1px solid black;

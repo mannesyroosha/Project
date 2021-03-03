@@ -11,6 +11,7 @@
     h2{
         font-family: 'Brush Script MT', cursive;
         font-size:3em;
+        color:darkblue;
     }
 h1 {
         display: inline-grid;
